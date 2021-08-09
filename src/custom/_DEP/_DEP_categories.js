@@ -1,0 +1,18 @@
+export const customCategories = [
+  {id: 'Personal', name: 'Personal', color: '#FF5A61', icon: '😎'},
+  {id: 'Party', name: 'Party', color: '#F00A48', icon: '🍸'},
+  {id: 'Pet', name: 'Pet', color: '#C0E97A', icon: '🐶'},
+  {id: 'Fitness', name: 'Fitness', color: '#1DA1F2', icon: '💪'},
+  {id: 'Business', name: 'Business', color: '#4A5FE1', icon: '👩‍💼'},
+  {id: 'Medication', name: 'Medication', color: '#F9717E', icon: '💊'},
+  {id: 'Mood', name: 'Mood', color: '#17BF63', icon: '😇'},
+  {id: 'Running', name: 'Running', color: '#C575FF', icon: '🏃‍♀️'},
+  {id: 'Diet', name: 'Diet', color: '#F99B20', icon: '🥑'},
+  {id: 'Sleep', name: 'Sleep', color: '#F7DC21', icon: '😴'},
+  {id: 'Books', name: 'Books', color: '#92AE40', icon: '📚'},
+  {id: 'Makeup', name: 'Makeup', color: '#EAE44F', icon: '💄'},
+  {id: 'Water', name: 'Water', color: '#8C7CF2', icon: '💧'},
+  {id: 'Date', name: 'Date', color: '#17BF63', icon: '👩‍❤️‍💋‍👨'},
+  {id: 'Weight', name: 'Weight', color: '#C0E97A', icon: '🧍‍♀️'},
+  {id: 'Caprica', name: 'Caprica', color: '#1DA1F2', icon: '🙃'},
+];

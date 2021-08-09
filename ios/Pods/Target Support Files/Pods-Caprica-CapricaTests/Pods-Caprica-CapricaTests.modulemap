@@ -1,0 +1,6 @@
+module Pods_Caprica_CapricaTests {
+  umbrella header "Pods-Caprica-CapricaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

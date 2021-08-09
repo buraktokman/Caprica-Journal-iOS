@@ -1,9 +1,9 @@
-# Water Ejection System (iOS) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)](https://github.com/buraktokman/Water-Ejection-System-iOS/)
+# Caprica Journal (iOS) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)](https://github.com/buraktokman/Caprica-Journal-iOS/)
 
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/buraktokman/Water-Ejection-System-iOS)
-[![Repo](https://img.shields.io/badge/source-GitHub-303030.svg?maxAge=3600&style=flat-square)](https://github.com/buraktokman/Water-Ejection-System-iOS)
-[![Requires.io](https://img.shields.io/requires/github/celery/celery.svg)](https://requires.io/github/buraktokman/Water-Ejection-System-iOS/requirements/?branch=master)
-[![Scrutinizer](https://img.shields.io/scrutinizer/g/filp/whoops.svg)](https://github.com/buraktokman/Water-Ejection-System-iOS)
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/buraktokman/Caprica-Journal-iOS)
+[![Repo](https://img.shields.io/badge/source-GitHub-303030.svg?maxAge=3600&style=flat-square)](https://github.com/buraktokman/Caprica-Journal-iOS)
+[![Requires.io](https://img.shields.io/requires/github/celery/celery.svg)](https://requires.io/github/buraktokman/Caprica-Journal-iOS/requirements/?branch=master)
+[![Scrutinizer](https://img.shields.io/scrutinizer/g/filp/whoops.svg)](https://github.com/buraktokman/Caprica-Journal-iOS)
 [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](https://choosealicense.com/licenses/mit/)
 [![Donate with Bitcoin](https://img.shields.io/badge/Donate-BTC-orange.svg)](https://blockchain.info/address/17dXgYr48j31myKiAhnM5cQx78XBNyeBWM)
 [![Donate with Ethereum](https://img.shields.io/badge/Donate-ETH-blue.svg)](https://etherscan.io/address/91dd20538de3b48493dfda212217036257ae5150)
@@ -22,11 +22,9 @@ Keep track of your activities and be prepared to increase memory, manage time be
 
 You can view all entries in the Timeline or the calendar.
 
-
-
-** THE BEST micro-JOURNAL APP TO REMEMBER AND INCREASED PRODUCTIVITY **
-
 ------
+
+**THE BEST micro-JOURNAL APP TO REMEMBER AND INCREASED PRODUCTIVITY**
 
 To make it even better Caprica allows you:
 
@@ -66,6 +64,7 @@ Developed with 💕
 We'd love to connect with you to hear about your App experience. Please don't hesitate to reach out to us on social if you have any feedback or questions:
 
 • Web: https://www.bulrosa.com
+
 • Twitter - @bulrosa
 
 
@@ -79,11 +78,12 @@ Auto-renewal may be turned off in your Account Setting in iTunes after purchase.
 
 --------------------------
 
---------------------------
-
 NAME			Caprica
+
 SUBTITLE		Keep Track of Anything
+
 COPYRIGHT		© 2020, Bulrosa, OU
+
 PRIVACY URL		https://www.bulrosa.com/privacy/privacy-policy.html
 
 KEYWORDS		journal, diary, instant, timeline, log,track, todo, reminder, record, remember, mood, moment, memory

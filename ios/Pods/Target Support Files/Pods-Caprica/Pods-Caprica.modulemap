@@ -1,0 +1,6 @@
+module Pods_Caprica {
+  umbrella header "Pods-Caprica-umbrella.h"
+
+  export *
+  module * { export * }
+}
